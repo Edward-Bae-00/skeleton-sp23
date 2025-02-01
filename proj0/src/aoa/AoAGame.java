@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 public class AoAGame {
-    private static final String DICTIONARY_FILE = "data/example.txt";
+    private static final String DICTIONARY_FILE = "/Users/edward/Documents/coding/skeleton-sp23/proj0/data/example.txt";
 
     public static void main(String[] args) throws FileNotFoundException {
         System.out.println("Welcome to the Awakening of Azathoth.");
